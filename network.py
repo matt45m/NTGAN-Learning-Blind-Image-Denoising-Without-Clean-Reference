@@ -6,7 +6,7 @@ from skimage import img_as_ubyte
 
 
 class Discriminator(nn.Module):
-    def __init__(self, input_shape=(3, 64, 64)):
+    def __init__(self, input_shape=(6, 128, 128)):
         super(Discriminator, self).__init__()
 
         channels, height, width = input_shape
