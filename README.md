@@ -1,4 +1,4 @@
-# [NTGAN-Noise-Transference-Generative-Adversarial-Network-for-Blind-Unsupervised-Image-Denoising](https://github.com/RickZ1010/NTGAN-Noise-Transference-Generative-Adversarial-Network-for-Blind-Unsupervised-Image-Denoising)
+# [NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference](https://github.com/RickZ1010/NTGAN-Noise-Transference-Generative-Adversarial-Network-for-Blind-Unsupervised-Image-Denoising)
 
 ## Dependencies
 Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
