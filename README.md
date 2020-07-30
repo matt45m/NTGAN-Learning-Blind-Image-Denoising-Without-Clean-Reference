@@ -10,3 +10,12 @@ Abstract: Recent studies on learning-based image denoising have achieved promisi
 
 ## Dependencies
 Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
+
+## Citation
+
+    @INPROCEEDINGS{ZhaoNTGAN2020, 
+        author={R. {Zhao} and D. P. K. {Lun} and K. {Lam}}, 
+        booktitle={2020 British Machine Vision Conference (BMVC)}, 
+        title={NTGAN: Learning Blind Image Denoising without Clean Reference}, 
+        year={2020}, 
+        month={Sep.},}
