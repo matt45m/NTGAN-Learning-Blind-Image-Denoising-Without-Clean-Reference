@@ -24,4 +24,5 @@ Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
         booktitle={2020 British Machine Vision Conference (BMVC)}, 
         title={NTGAN: Learning Blind Image Denoising without Clean Reference}, 
         year={2020}, 
-        month={Sep.},}
+        month={Sep.}
+        }
