@@ -11,6 +11,9 @@ Abstract: Recent studies on learning-based image denoising have achieved promisi
 ## Dependencies
 Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
 
+## Network Architecture
+![](https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/fig1.png)
+
 ## Citation
 
     @INPROCEEDINGS{ZhaoNTGAN2020, 
