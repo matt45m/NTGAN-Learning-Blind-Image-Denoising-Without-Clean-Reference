@@ -17,6 +17,14 @@ Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
 <img src="https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/fig1.png?raw=true" width=600/>
 </div>
 
+## Pretrained Models
+We provide the pre-trained model at "./models/ntgan.pth" for reproducing the results presented in the paper.
+
+## Results
+### Realistic noise removal
+<div align=center><img width="600" src="https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/table1.png?raw=true"/></div>
+<div align=center><img width="600" src="https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/table2.png?raw=true"/></div>
+
 ## Citation
 
     @INPROCEEDINGS{ZhaoNTGAN2020, 
