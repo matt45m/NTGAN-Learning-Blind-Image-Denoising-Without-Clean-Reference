@@ -1,7 +1,6 @@
 # [NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference](https://github.com/RickZ1010/NTGAN-Noise-Transference-Generative-Adversarial-Network-for-Blind-Unsupervised-Image-Denoising)
 
-## Introduction
-It is the implementation of the following paper:
+This is the implementation of the following paper:
 
 **NTGAN: Learning Blind Image Denoising without Clean Reference**
 
