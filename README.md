@@ -20,7 +20,7 @@ Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
 </div>
 
 ## Pretrained Models
-We provide the pre-trained model at "./models/ntgan.pth" for reproducing the results presented in the paper.
+The pre-trained model can be found at "./models/ntgan.pth".
 
 ## Results
 ### Realistic noise removal
