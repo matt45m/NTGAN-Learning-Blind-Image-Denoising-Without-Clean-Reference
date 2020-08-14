@@ -25,7 +25,7 @@ The pre-trained model can be found at "./models/ntgan.pth".
 ## Results
 ### Realistic noise removal
 <div align=center><img width="700" src="https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/table1.png?raw=true"/></div>
-<div align=center><img width="700" src="https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/table2_.png?raw=true"/></div>
+<div align=center><img width="800" src="https://github.com/RickZ1010/NTGAN-Learning-Blind-Image-Denoising-Without-Clean-Reference/blob/master/figs/table2_.png?raw=true"/></div>
 
 
 ## Citation
