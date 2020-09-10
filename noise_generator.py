@@ -218,9 +218,6 @@ if __name__ == "__main__":
         nlm = np.sqrt(np.mean(nlm**2, 2))
         nlm = np.uint8(nlm * 255)
 
-        cv2.imwrite("simulation/noisy_2.png", np.uint8(img_n[:, :, ::-1] * 255))
-        cv2.imwrite("simulation/nlm_2.png", nlm)
-
         plt.subplot(1, 3, 1)
         plt.title('origin image')
         plt.imshow(img)
