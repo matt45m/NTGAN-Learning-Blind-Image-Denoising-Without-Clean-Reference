@@ -11,7 +11,7 @@ Abstract: Recent studies on learning-based image denoising have achieved promisi
 [Paper](https://www.bmvc2020-conference.com/assets/papers/0046.pdf), [Supplementary material](https://www.bmvc2020-conference.com/assets/supp/0046_supp.pdf), [Video](https://www.bmvc2020-conference.com/conference/papers/paper_0046.html)
 
 ## Dependencies
-Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2.
+Python >= 3.6.5, Pytorch >= 0.4.1, and cuda-9.2. [colour-demosaicing](https://pypi.org/project/colour-demosaicing/)
 
 ## Framework
 
